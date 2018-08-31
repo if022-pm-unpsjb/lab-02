@@ -1,2 +1,3 @@
-# lab-02
-Laboratorio 02
+# Laboratorio 2
+
+Repo para el Laboratorio 2.
